@@ -17,5 +17,5 @@ $ yarn build
 
 ### watch
 ```
-$yarn watch
+$ yarn watch
 ```
